@@ -1,0 +1,6 @@
+diff a/Assets/2048Figure/Architecture/Scripts/GP/Liderboard.cs b/Assets/2048Figure/Architecture/Scripts/GP/Liderboard.cs	(rejected hunks)
+@@ -0,3 +0,4 @@
+         GP_Leaderboard.Open();
+     }
+     
++}

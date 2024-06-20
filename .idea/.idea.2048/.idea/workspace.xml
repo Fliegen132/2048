@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11fdc7cc-3d3d-41f1-885e-b10ea04c2f76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Sounds/Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8CA54E9-F92C-45BB-A934-9528D0DD1F2A/e8/ae044e41/AudioBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/EndGameView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/CircleCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/GP/Liderboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/2b/12ef4e72/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/LineBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/ScoreView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/GP/SaveLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/StartGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/PausePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/Creator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/tmpAE13.tmp.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/Btns/ReloadBtn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/CoinsView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/EnableShopp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ADBehaviour/CoinsAd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnableShop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/CubeRecordView.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Prefabs/Figures/Scripts/IFigure.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Prefabs/Figures/Scripts/FigureData.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/Bootstrap/Bootstrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/ViewModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ServiceLocator/IService.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/EndGameView.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/FigureTexturing.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ServiceLocator/ServiceLocator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/TriangleCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/CubeRecord.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/GamePush/Runtime/Utilities/GP_PaymentsStub.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/GamePush/Runtime/Utilities/GP_PlatformSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/AdaptationTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/TransformData.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/FigureTexture.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ADBehaviour/ShowAd.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/GP/Liderboard.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ADBehaviour/CoinsAd.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/Pools.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/Creator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/SquareCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/CircleCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/FigureCreator/BombCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Sounds/Scripts/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/PausePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/LineBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnableShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Prefabs/Figures/Scripts/BombBeh.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/ServiceLocator/SERVICELOCAROR_GAMEPLAY.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/EnableShopp.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Prefabs/Figures/Scripts/Boom.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/UserInput/UserInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/StartGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/BuyView.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/CoinsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/ScoreView.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/UI/Scripts/CubeRecordView.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Prefabs/Figures/Scripts/Figure.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/Btns/ReloadBtn.cs" />
+        <option value="$PROJECT_DIR$/Assets/2048Figure/Architecture/Scripts/GP/SaveLoad.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dS90b30I9BBiwa8GyXpSZ89za1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11fdc7cc-3d3d-41f1-885e-b10ea04c2f76" name="Default Changelist" comment="" />
+      <created>1709990396402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709990396402</updated>
+      <workItem from="1709990406251" duration="14441000" />
+      <workItem from="1710053818090" duration="25203000" />
+      <workItem from="1710164318737" duration="20215000" />
+      <workItem from="1710216759252" duration="3780000" />
+      <workItem from="1710220634061" duration="28804000" />
+      <workItem from="1710389569523" duration="33181000" />
+      <workItem from="1710430442984" duration="882000" />
+      <workItem from="1710432299945" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="754" y="208" key="RiderGenerateDialog" timestamp="1709990859471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="208" key="RiderGenerateDialog/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1709990859471" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1710429264681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.92.1920.1040@0.0.1920.1040" timestamp="1710429264681" />
+  </component>
+</project>
